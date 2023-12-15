@@ -198,7 +198,7 @@ function draw() {
         y = canvas.height - 30;
         dx = 2;
         dy = -2;
-        paddleX = (canvas.width - paddleWidth) / 2;
+        paddleX = (canvas.width - paddlewidth) / 2;
       }
     }
   }
